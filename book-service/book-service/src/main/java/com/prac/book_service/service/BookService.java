@@ -1,7 +1,5 @@
 package com.prac.book_service.service;
 
-
-
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 import com.prac.book_service.entity.Book;
 import com.prac.book_service.repository.BookRepository;
-
 
 
 @Service
